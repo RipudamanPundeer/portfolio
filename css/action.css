@@ -1,0 +1,28 @@
+*{
+    color:beige;
+    font-family: sans-serif;
+}
+body{
+    /* background-image: url(../image\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100% 12vw ; */
+    background-color: #141f1f;
+    font-size: 2vw;
+}
+.project{
+    text-align: center;
+    color:burlywood;
+    font-family: 'Barlow', sans-serif; 
+    font-size: 6vw;
+}
+.msg{
+    text-align: center;
+}
+hr{
+    border: none;
+    border-top: 10px double darkslategrey;
+    width:10%;
+    margin-top:5vw ;
+    margin-bottom: 5vw;
+}
