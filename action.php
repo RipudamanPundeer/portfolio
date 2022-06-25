@@ -15,7 +15,7 @@
 </head>
 <body>
     <h1 class="project">Your response was recorded!</h1>
-    <p class="msg">Thanks <?php $name = $_POST['fname']; echo $name; ?>! for visiting and reviewing my site.</p>
+    <p class="msg">Thanks <?php $name = $_GET['fname']; echo $name; ?>! for visiting and reviewing my site.</p>
     <p class="msg" ><a href="index.html">Back to Home</a></p>
     <hr>
 </body>
